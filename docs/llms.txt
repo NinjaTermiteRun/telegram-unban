@@ -1,0 +1,19 @@
+# telegram-unban
+
+> Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+
+Если в Telegram не грузятся картинки, telegram-unban чинит канал без VPN-клиента.
+
+## Страницы
+- Сайт: https://ninjatermiterun.github.io/telegram-unban/
+- Релиз: https://github.com/NinjaTermiteRun/telegram-unban/releases/latest
+- Исходный код: https://github.com/NinjaTermiteRun/telegram-unban
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
